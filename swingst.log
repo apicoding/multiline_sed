@@ -1,0 +1,19 @@
+2022-09-19 16:18:00 Everything worked fine
+2022-09-19 16:18:01 On this RIC ESTR|RFQOIS|start$44000|end$44004 while subscribing
+
+2022-09-19 16:19:00 An ArgumentException occured here
+2022-09-19 16:19:01 On this RIC ESTR|RFQOIS|start$45000|end$45000 while subscribing
+
+2022-09-19 16:20:00 Everything worked fine
+2022-09-19 16:20:01 On this RIC ESTR|RFQOIS|start$45000|end$45002 while subscribing
+2022-09-19 16:21:00 Everything worked fine
+2022-09-19 16:21:01 On this RIC EURIBOR6M|RFQIRS|start$46000|end$46002 while subscribing
+
+2022-09-19 16:22:00 An ArgumentException occured here
+2022-09-19 16:22:01 On this RIC ESTR|RFQOIS|start$47000|end$47000 while subscribing
+
+2022-09-19 16:23:00 Everything worked fine
+2022-09-19 16:23:01 On this RIC EURIBOR1M|RFQIRS|start$43000|end$43010 while subscribing
+
+2022-09-19 16:24:00 An ArgumentException occured here
+2022-09-19 16:24:01 On this RIC EURIBOR3M|RFQIRS|start$48000|end$48010 while subscribing
