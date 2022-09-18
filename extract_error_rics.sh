@@ -5,4 +5,5 @@
 
 # = Print the current input line number (with a trailing newline)
 
-sed -En '/ArgumentException.*while subscribing/{H;$!d} ; x  ; s/^.*RIC (.*) while subscribing.*$/\1/p' swingst.log
+sed -En '{N; /\bArgumentException.*RIC.*while subscribing\b/{s/^.*RIC (.*) while subscribing.*$/\1/p} ; D}' swingst.log
+
